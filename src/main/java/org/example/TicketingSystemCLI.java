@@ -161,4 +161,15 @@ public class TicketingSystemCLI {
             System.out.println("Customer count: " + config.getCustomer());
         }
     }
+
+
 }
+
+// # github repo urls :
+//
+// CLI - https://github.com/PiyumiKavindya/RealTime-Ticket-System-CLI.git
+//
+//BE - https://github.com/PiyumiKavindya/Real-Time-Event-Ticket-System.git
+//
+//FE - https://github.com/PiyumiKavindya/Real-Time-Ticket-System-frontend.git
+
